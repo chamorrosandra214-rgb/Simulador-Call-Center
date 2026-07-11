@@ -1,0 +1,43 @@
+===== SIMULADOR DE CALL CENTER =====
+Ingrese el número de clientes: 10
+Ingrese el número de agentes: 3
+Cliente 1 llegó en el minuto 0
+Cliente 1 está siendo atendido en el minuto 0
+Cliente 2 llegó en el minuto 3
+Cliente 2 está siendo atendido en el minuto 3
+Cliente 3 llegó en el minuto 4
+Cliente 3 está siendo atendido en el minuto 4
+Cliente 4 llegó en el minuto 6
+Cliente 1 terminó su llamada en el minuto 7
+Cliente 2 terminó su llamada en el minuto 7
+Cliente 5 llegó en el minuto 7
+Cliente 4 está siendo atendido en el minuto 7
+Cliente 5 está siendo atendido en el minuto 7
+Cliente 3 terminó su llamada en el minuto 10
+Cliente 6 llegó en el minuto 10
+Cliente 5 terminó su llamada en el minuto 10
+Cliente 6 está siendo atendido en el minuto 10
+Cliente 7 llegó en el minuto 13
+Cliente 7 está siendo atendido en el minuto 13
+Cliente 4 terminó su llamada en el minuto 15
+Cliente 8 llegó en el minuto 15
+Cliente 8 está siendo atendido en el minuto 15
+Cliente 6 terminó su llamada en el minuto 17
+Cliente 7 terminó su llamada en el minuto 17
+Cliente 9 llegó en el minuto 18
+Cliente 8 terminó su llamada en el minuto 18
+Cliente 9 está siendo atendido en el minuto 18
+Cliente 10 llegó en el minuto 19
+Cliente 10 está siendo atendido en el minuto 19
+Cliente 9 terminó su llamada en el minuto 22
+Cliente 10 terminó su llamada en el minuto 26
+
+===== RESULTADOS =====
+Número de llamadas: 10
+Número de clientes: 10
+Clientes atendidos: 10
+Tiempo promedio de atención: 5.3 minutos
+
+
+** Process exited - Return Code: 0 **
+
